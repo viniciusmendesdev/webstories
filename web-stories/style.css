@@ -1,0 +1,20 @@
+body{ background-color: #f5f5f5;}
+
+header{
+    color: #fff;
+    background: linear-gradient(45deg, #1c4093 0%, #050346 66%, #3fdc6a 100%);
+    padding: 20px;
+}
+
+header h1{
+    font-size: 24px;
+}
+
+#paginas{
+    padding: 50px;
+}
+
+.card{
+    padding: 0;
+    margin: 10px;
+}

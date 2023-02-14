@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background:#143F99;
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+.btn{
+	font-weight:bold;
+}
+
+.container{
+	padding: 50px;
+	border-radius:4px 0 4px 0;
+}
+
+.container .row .col-sm .btn{
+	width: 100%;
+}
+
+.logo{
+	margin-bottom: 20px;
+}
+
+.logo img{
+	margin: 0 auto;
+}
